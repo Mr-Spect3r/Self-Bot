@@ -6,9 +6,9 @@ This is a bot connected to artificial intelligence, just define your characteris
 
 - First, log in to the openai site, create an api key, copy it, and put it in the "api_key" variable
 
-- Now, put your features, in addition to a name, in the "prompt" variable
+- Now, put your features, in addition to a name, in the "prompt" variable (example: Your name is Natasha. You are the assistant of esfelurm. You are an expert in programming, hacking, and cybersecurity. esfelurm is your supervisor and rightful owner) 
 
-- Now you need to create a Telegram account session file! You can use this tool: Create session file
+- Now you need to create a Telegram account session file! You can use this tool: <a href="https://github.com/Mr-Spect3r/TgAcc-Robber/blob/main/session.py">Create session file</a> 
 
 # Commands List
 
