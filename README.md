@@ -1,5 +1,6 @@
 # Self-Bot Telegram 
 
+This is a bot connected to artificial intelligence, just define your characteristics and ethics for the bot, then it will respond to direct messages, groups and customers on your behalf!
 
 
 # Commands List
