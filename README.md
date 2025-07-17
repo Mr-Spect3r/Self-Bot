@@ -2,6 +2,13 @@
 
 This is a bot connected to artificial intelligence, just define your characteristics and ethics for the bot, then it will respond to direct messages, groups and customers on your behalf!
 
+# Setup
+
+- First, log in to the openai site, create an api key, copy it, and put it in the "api_key" variable
+
+- Now, put your features, in addition to a name, in the "prompt" variable
+
+- Now you need to create a Telegram account session file! You can use this tool: Create session file
 
 # Commands List
 
