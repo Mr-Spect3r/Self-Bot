@@ -10,6 +10,10 @@ This is a bot connected to artificial intelligence, just define your characteris
 
 - Now you need to create a Telegram account session file! You can use this tool: <a href="https://github.com/Mr-Spect3r/TgAcc-Robber/blob/main/session.py">Create session file</a> 
 
+# ScreenShot
+
+<img src="https://github.com/user-attachments/assets/4d3bc829-2461-4242-bf4a-c38fff481090"> 
+
 # Commands List
 
 <table>
